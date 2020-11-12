@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Log Stuped Tech",
       "attention": false,
-      "date": "03-02-2018",
-      "tech": "Sam Smith"
+      "tech": "Sam Smith",
+      "date": "2020-11-12T11:28:44.746Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "y5yu56iu7i46i57",
       "attention": true,
-      "date": "12-07-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed Memory on workstation 050",
-      "attention": false,
-      "date": "09-10-2020",
-      "tech": "Sarah Willson"
+      "tech": "Sarah Willson",
+      "date": "2020-11-12T11:28:52.613Z",
+      "id": 2
     }
   ],
   "techs": [
